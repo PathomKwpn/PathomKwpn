@@ -4,7 +4,7 @@ Hi 👋 My name is Pathompon Kangwanpanitch
 I'm
 
 * 🌍  I'm based in Chonburi,Thailand
-* 🖥️  See my portfolio at [My Web Portfolio]([http://test.com](https://myportfolio-8xk.pages.dev/))
+* 🖥️  See my portfolio at [My Web Portfolio](https://myportfolio-8xk.pages.dev/)
 * ✉️  You can contact me at [pathompong3558@gmail.com](mailto:pathompong3558@gmail.com)
 * 🧠  I'm learning REACT, HTML, CSS, JAVASCRIPT, TYPESCRIPT, TAILWIND CSS, SQL
 
